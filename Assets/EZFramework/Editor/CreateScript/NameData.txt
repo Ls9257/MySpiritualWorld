@@ -1,0 +1,10 @@
+img,Image
+btn,Button
+tog,Toggle
+text,Text
+slider,Slider
+input,InputField
+toggroup,ToggleGroup
+tra,Transform
+drop,Dropdown
+game,GameObject
