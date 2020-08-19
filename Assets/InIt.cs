@@ -19,7 +19,6 @@ namespace EZFramework
 		private static void AddModel()
 		{
             EZModel.AddModel<UIModel>();
-
 		}
 	}
 }
